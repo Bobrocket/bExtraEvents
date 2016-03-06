@@ -1,0 +1,4 @@
+name: bExtraEvents
+main: co.bobrocket.bextraevents.EventsPlugin
+version: 1
+commands:
